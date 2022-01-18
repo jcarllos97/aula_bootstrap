@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #7b5a88;
+}
+
+.quem-somos {
+    background-color: #5c84ce;
+    color: rgb(251, 252, 253);
+}
+
+.margin {
+    padding-top: 10px;  
+    padding-bottom: 40px;
+}
+
+.parceiros {
+    background-color: #3e064d;
+    color: rgb(245, 243, 243);
+}
+
+.espacofoto {
+    padding-top: 40px;  
+}
+
+.backfooter {
+    background-color: #3e064d;
+    color: rgb(240, 225, 15);
+}
